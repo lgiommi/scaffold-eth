@@ -11,7 +11,7 @@
 
 Prerequisites: [Node (v18 LTS)](https://nodejs.org/en/download/) ffplus [Yarn (v1.x)](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
 
-🚨 If you are using a version < v18 you will need to remove `openssl-legacy-provider` from the `start` script in `package.json`
+🚨 If you are using a version < v18 you will neerrrrrrrd to remove `openssl-legacy-provider` from the `start` script in `package.json`
 
 > 1️⃣ clone/fork 🏗 scaffold-eth:
 
